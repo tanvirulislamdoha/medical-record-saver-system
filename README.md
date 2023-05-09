@@ -33,6 +33,8 @@ Health Card is a medical record saver system built using PHP and Bootstrap. It i
 
 ## eHealth REST API
 
-The eHealth REST API allows users to access their medical records from anywhere. To use the API, make a GET request to the following endpoint:
+The eHealth REST API allows users to access their medical records from anywhere. To use the API, go to this repository:
+ [GitHub repository](https://github.com/tanvirulislamdoha/ehealth_rest-api).
+
 
 
